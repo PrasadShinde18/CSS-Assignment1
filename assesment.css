@@ -1,0 +1,51 @@
+
+.para
+{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+.span
+{
+    text-decoration: line-through;
+}
+.span2
+{
+    text-decoration: underline;
+}
+.lines
+{
+    line-height: 40px;
+}
+.pr 
+{
+    color: red;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.c1
+{
+    background-color: yellow;
+}
+.c2
+{
+    letter-spacing: 5px
+}
+.c3
+{
+    letter-spacing: 5px
+    font-size: 17px;
+    background-color: yellow;
+    
+ 
+}
+.c4
+{
+    background-color: yellow;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
